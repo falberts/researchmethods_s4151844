@@ -21,3 +21,18 @@ The dataset used is the following:
 /net/corpora/twitter2/Tweets/ (on karora)
 
 This script only needs the data from september to november (so directories 09, 10 and 11) of 2016 and 2017.
+
+The results are stored in the following file:
+
+tweetszml_1617.txt
+
+For each month, the month and year are displayed. After this, the total number of tweets and the number of tweets containing
+the following terms:
+
+@arjenlubach
+lubach
+#lubach
+#zml
+zml
+#zondagmetlubach
+@zondagmetlubach
